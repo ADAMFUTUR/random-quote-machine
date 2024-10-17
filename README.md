@@ -2,10 +2,6 @@
 
 A simple and interactive web application that displays random quotes. Users can generate new quotes and share them on Twitter.
 
-## Live Demo
-
-You can view the live demo of the project [here](https://your-live-demo-link.com).
-
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
